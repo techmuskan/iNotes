@@ -17,5 +17,5 @@ env/
 .DS_Store
 Thumbs.db
 
-s
+# Sensitive config
 config/db.py
