@@ -16,4 +16,6 @@ env/
 # OS
 .DS_Store
 Thumbs.db
+
+s
 config/db.py
